@@ -4,11 +4,27 @@
 
 # Hi there, Welcome to my GitHub! 
 
-<p>I'm a Software Developer with fundamental knowledge of Design System, Web Accessibility and Serverless Technologies.</p> 
+## 👩🏻‍💻 About Me
 
-Seeking to use my Front End development experience in a entry-level position. Posses more than one year of hands-on experience building and testing applications.
-I have a passion for coding and traveling. I'm currently working on turning an idea into a company, with a native mobile app currently in beta stage.
-If you're an adventurous perfson who love to travel and meet new people checkout [Wandergier](https://www.wandergier.com)
+Hello! I'm Jaque, a passionate woman in tech with 2 years of professional experience. I thrive on turning ideas into code and love exploring the latest in technology.
+
+## 🔧 Skills
+
+- Programming Languages: JavaScript, Python
+- Frontend: React, Angular
+- Backend: .Net(C#)
+- Database: PostgreSQL, Liquibase
+- Tools: Git, VS Code
+
+## 🎓 Education
+
+- Bachelor of Science in Computer Science | Towson University | 2020
+
+  
+## 📬 Contact
+
+- LinkedIn: [Jaqueline Alves](https://www.linkedin.com/in/jaqueline7alves?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Email: alves.jaque@icloud.com
 
 ---
 
